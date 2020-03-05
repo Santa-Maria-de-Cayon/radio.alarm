@@ -1,4 +1,5 @@
 {"name":   [
+    "Deep House",
     "Дискотека ссср",
     "Новая Волна",
     "Русский Рок",
@@ -25,6 +26,7 @@
      ], 
 
  "uri" : [
+        "https://pub0101.101.ru:8000/stream/trust/mp3/128/173",
         "https://pub0101.101.ru:8000/stream/pro/aac/64/144",
         "http://volgograd.sv-veter.ru:8008/nv_online",
         "http://ic3.101.ru:8000/stream/trust/mp3/128/42?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjgzLjM2LjEwMi41NiIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdFwvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lXC83OS4wLjM5NDUuODggU2FmYXJpXC81MzcuMzYiLCJ1aWRfY2hhbm5lbCI6IjQyIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTU3NzAwNzk3N30.tJlJdjoC3jjBukjoWLmfDgGEV1nYb8K9MrGOW0ObrzU",
