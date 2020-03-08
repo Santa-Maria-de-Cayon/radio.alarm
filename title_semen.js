@@ -1,8 +1,8 @@
 {"name":   [
-    "test"
+    "пуратино"
     ], 
 
  "uri" : [
-        "test"
+        "https://suzdalenko-alexey.github.io/s1/songs/a.mp3"
      ]         
                                           }
